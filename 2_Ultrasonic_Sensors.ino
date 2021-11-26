@@ -1,9 +1,9 @@
-######################################################################################################################
-#
-#     Author : Hariharan Raveenthiran 
-#     Testing of two Ultrasonic sensorss for Smart_Direction_Sensor_Setup
-#
-######################################################################################################################
+//######################################################################################################################
+//#
+//#     Author : Hariharan Raveenthiran 
+//#     Testing of two Ultrasonic sensorss for Smart_Direction_Sensor_Setup
+//#
+//######################################################################################################################
 
 
 //This is the basic setup of two Ultrasonic sensors setup which predicts the direction that you have to go according to the obstacles detected.
