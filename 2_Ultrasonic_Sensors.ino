@@ -2,11 +2,10 @@
 //#
 //#     Author : Hariharan Raveenthiran 
 //#     Testing of two Ultrasonic sensorss for Smart_Direction_Sensor_Setup
-//#
+//#     This is the basic setup of two Ultrasonic sensors setup which predicts the direction that you have to go according to the obstacles detected.
 //######################################################################################################################
 
 
-//This is the basic setup of two Ultrasonic sensors setup which predicts the direction that you have to go according to the obstacles detected.
 int DISTANCE1 = 0;
 int DISTANCE2=0;
 int check_num=0,check_num1=0;
