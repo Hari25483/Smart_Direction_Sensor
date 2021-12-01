@@ -2,7 +2,7 @@
     #Author: Hariharan Raveenthiran
 #####################################
 
-#This file gets the command that was posted in cloud, converts it to audio so that user will be notified.
+#This file gets the command that was posted in cloud, converts it to audio so that user will be notified about the commands.
 
 from urllib.request import urlopen
 import json
